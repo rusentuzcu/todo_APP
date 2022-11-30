@@ -3,6 +3,7 @@ import functions
 import time
 
 now = time.strftime("%b %d, %Y %H:%M:%S")
+print("Time is added below: ")
 print("it is", now)
 while True:
 

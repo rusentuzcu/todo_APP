@@ -1,7 +1,5 @@
 go
 walk
-eat
-clean the code
 
 fuck
 walk

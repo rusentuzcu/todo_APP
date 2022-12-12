@@ -1,7 +1,6 @@
 go
-walk
-
 fuck
 walk
 walk
 sit
+add
